@@ -1,3 +1,8 @@
+Note is an organization app similar to the stickies app. 
+It allows users to generate, edit, and delete short post-it style notes, as well as tag notes with different categories. 
+This app was built using React.js
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
